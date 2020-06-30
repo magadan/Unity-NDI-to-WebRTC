@@ -22,7 +22,7 @@ Running the Project:
 
 Download the project to your Unity 2019.4.1f1
 
-Change the URL Signaling to your Linux VPS Server/Cloud Server that is running the WebServer
+Change the URL Signaling to your Linux VPS Server/Cloud Server that is running the WebServer, clicking on the 'RenderStreaming' object and go to inspector of this Object.
 
 Hit Play to run the Unity Project
 
