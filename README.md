@@ -26,6 +26,8 @@ Change the URL Signaling to your Linux VPS Server/Cloud Server that is running t
 
 Hit Play to run the Unity Project
 
+Make shure your WebServer is running on the Linux Machine.
+
 Works with Unity Builds too.
 
 
