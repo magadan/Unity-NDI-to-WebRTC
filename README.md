@@ -15,7 +15,8 @@ With this project you sent video or a unity 3D enviroment over Untiy RenderStrea
 
 To work you will need:
 
-A Cloud Linux Server/VPS Server to run the WebServer part of this project hosted in: 
+1 - A GPU Nvidia or AMD
+2 - A Cloud Linux Server/VPS Server to run the WebServer part of this project hosted in: 
 https://github.com/magadan/Unity-NDI-to-WebRTC-WebServer
 
 # Running the Project: #
