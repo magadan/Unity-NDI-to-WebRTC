@@ -3,7 +3,7 @@ A simple way to send realtime low latency high quality video over Internet
 
 This Project was made with:
 
-#ersion:#
+# Version: #
 
 Unity 2019.4.1f1 
 
@@ -11,7 +11,7 @@ How to use:
 
 With this project you sent video or a unity 3D enviroment over Untiy RenderStreaming Technology. Its a fork from the original Unity Project with some modifications.
 
-# Requeriments:#
+# Requeriments: #
 
 To work you will need:
 
