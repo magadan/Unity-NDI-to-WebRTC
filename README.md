@@ -32,6 +32,6 @@ Works with Unity Builds too.
 
 
 
-
+License is MIT, NDI from Keyjiro
 
 
